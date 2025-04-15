@@ -20,10 +20,10 @@
             que já desenvolvi!</p>
         <p>Minhas habilidades</p>
         <div>
-            <p class="badge bg-secondary">HTML</p>
-            <p class="badge bg-secondary">CSS</p>
-            <p class="badge bg-secondary">JavaScript</p>
-            <p class="badge bg-secondary">Scratch</p>
+            <p class="badge bg-secondary">Saxophone</p>
+            <p class="badge bg-secondary">Viola</p>
+            <p class="badge bg-secondary">Flauta</p>
+            <p class="badge bg-secondary">teoria musical</p>
         </div>
     </header>
     <main class="container mt-5">
