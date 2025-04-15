@@ -12,12 +12,11 @@
 
 <body>
     <header class="container text-center">
-        <img src="img/avatar-perfil.png" alt="avatar da Fernanda" class="rounded-circle" width="150" height="150"
+        <img src="img/avatar-perfil.png" alt="avatar do Kauã" class="rounded-circle" width="150" height="150"
             srcset="">
-        <p class="lead">Eu sou Fernanda_</p>
-        <h1>Eu ensino Programação</h1>
-        <p>Sou Engenheira de Computação e Pedagoga. Ensino pensamento computacional para estudantes do Ensino
-            Fundamental e Médio. Ensino sobre pensamento computacional usando HTML, CSS e JavaScript. Veja os projetos
+        <p class="lead">Eu sou Kaua Chagas_</p>
+        <h1>Eu ensino musica</h1>
+        <p>Sou estudante de musica e luthier. Ensino teoria musical para pessoas que querem comceçar por esse caminho. Ensino sobre musica ultilizando metodos msucais. Veja os projeto
             que já desenvolvi!</p>
         <p>Minhas habilidades</p>
         <div>
