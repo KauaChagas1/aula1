@@ -16,7 +16,7 @@
             srcset="">
         <p class="lead">Eu sou Kaua Chagas_</p>
         <h1>Eu ensino musica</h1>
-        <p>Sou estudante de musica e luthier. Ensino teoria musical para pessoas que querem comceçar por esse caminho. Ensino sobre musica ultilizando metodos msucais. Veja os projeto
+        <p>Sou estudante de musica e luthier. Ensino teoria musical para pessoas que querem iniciar nesse caminho, participo de orquestras
             que já desenvolvi!</p>
         <p>Minhas habilidades</p>
         <div>
